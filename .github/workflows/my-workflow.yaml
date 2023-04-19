@@ -1,4 +1,4 @@
-name: First job
+name: Second job
 on: push
 
 jobs:
